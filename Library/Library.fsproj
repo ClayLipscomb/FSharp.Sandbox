@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Library.fs"/>
+      <None Include="ArrayShuffle.fsx" />
     </ItemGroup>
 
 </Project>
